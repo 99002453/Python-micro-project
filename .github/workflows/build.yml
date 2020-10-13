@@ -6,6 +6,6 @@ jobs:
       steps:
       - name: Run Action Step
         id: hello
-        uses: Python-micro-proect/pylint3-action@master
+        uses: LakshitF/pylint3-action@master
         with:
           filename: '/source/server.py'
