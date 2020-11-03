@@ -1,0 +1,3 @@
+/home/user/Downloads/Point/build/CMakeFiles/rebuild_cache.dir
+/home/user/Downloads/Point/build/CMakeFiles/edit_cache.dir
+/home/user/Downloads/Point/build/CMakeFiles/executeTests.dir

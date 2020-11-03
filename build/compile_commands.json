@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/user/Downloads/Point/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/executeTests.dir/Point_test.cpp.o -c /home/user/Downloads/Point/Point_test.cpp",
+  "file": "/home/user/Downloads/Point/Point_test.cpp"
+}
+]
